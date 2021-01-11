@@ -1,0 +1,53 @@
+#advanced-sortables .postbox h2 {
+    font-size: 1.4em;
+    padding: 8px 12px;
+	margin: 0;
+	line-height: 1.4;
+}
+
+.metas-label{
+	font-size: 1em;
+	font-weight: bold;
+	margin-right: 4px;
+}
+.metas-label{
+	font-size: 1em;
+	font-weight: bold;
+	margin-right: 4px;
+}
+.metas-input-txt{
+	font-size: 1em; 
+	width: 100%; 
+	margin-bottom: 15px;
+}
+::placeholder { 
+	color: #7d7b8d; 
+	opacity: 1; 
+}
+.lc_label { 
+	color: #5d5b6d; 
+	font-size: 1.2em; 
+	margin: 10px auto 5px 0; 
+	display: block; 
+	letter-spacing: 0.1em; 
+}
+.lc_form_help { 
+	color: #7d7b8d; 
+	font-size: 1.01em; 
+	margin: 0 auto 3px 0 
+}
+.lc_input { 
+	font-size: 1.2em; 
+	padding: 6px 10px !important; 
+	border-color: #bdbdbd !important; 
+}
+
+@media (max-width: 575px) { 
+#shortcode_saver {
+    width: 100%;
+}
+.lc_generar .button {
+    width: 100%;
+    text-align: center;
+}
+	 }

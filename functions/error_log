@@ -1,0 +1,2 @@
+[11-Jan-2021 16:33:28 UTC] PHP Warning:  Declaration of LCMN_Walker::start_lvl(&$output, $item, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /home/codigospostales/public_html/wp-content/themes/LCtheme2020/functions/utils.php on line 0
+[11-Jan-2021 16:44:09 UTC] PHP Warning:  Declaration of LCMN_Walker::start_lvl(&$output, $item, $depth) should be compatible with Walker_Nav_Menu::start_lvl(&$output, $depth = 0, $args = NULL) in /home/codigospostales/public_html/wp-content/themes/LCtheme2020/functions/utils.php on line 0
